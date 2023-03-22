@@ -1,0 +1,51 @@
+Enter command: init 10 
+Czasy wykonania:
+Użytkownik: 0
+Systemowy: 0
+Rzeczywisty: 7009 nsec
+
+Enter command: count libmlib.a 
+Czasy wykonania:
+Użytkownik: 0
+Systemowy: 0
+Rzeczywisty: 870380 nsec
+
+Enter command: count mlib.c 
+Czasy wykonania:
+Użytkownik: 0
+Systemowy: 0
+Rzeczywisty: 835993 nsec
+
+Enter command: Block 0: 113 269
+show 0 
+Czasy wykonania:
+Użytkownik: 0
+Systemowy: 0
+Rzeczywisty: 944 nsec
+
+Enter command: Block 1: 81 292
+show 1 
+Czasy wykonania:
+Użytkownik: 0
+Systemowy: 0
+Rzeczywisty: 443 nsec
+
+Enter command: delete -1 
+Czasy wykonania:
+Użytkownik: 0
+Systemowy: 0
+Rzeczywisty: 451 nsec
+
+Enter command: delete -1 
+Czasy wykonania:
+Użytkownik: 0
+Systemowy: 0
+Rzeczywisty: 273 nsec
+
+Enter command: destroy 
+Czasy wykonania:
+Użytkownik: 0
+Systemowy: 0
+Rzeczywisty: 670 nsec
+
+Enter command: 

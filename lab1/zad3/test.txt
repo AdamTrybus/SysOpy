@@ -1,0 +1,9 @@
+init 10
+count libmlib.a
+count mlib.c
+show 0
+show 1
+delete index 0
+delete index 1
+destroy
+exit
