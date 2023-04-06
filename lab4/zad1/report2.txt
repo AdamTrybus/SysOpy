@@ -1,0 +1,15 @@
+>>> FORK <<<
+HANDLER:
+(1821) Raising signal
+(1821) Received signal: 10
+(1822) Raising signal
+(1822) Received signal: 10
+IGNORE:
+(1825) Raising signal
+(1826) Raising signal
+MASK:
+(1829) Raising signal
+PENDING:
+(1833) Raising signal
+(1833) Signal is pending
+(1834) Signal is not pending
